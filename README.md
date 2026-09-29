@@ -98,4 +98,4 @@ The [wiki](https://github.com/meros/cpp-maker/wiki/Your-first-build-with-maker) 
 
 ## License
 
-Maker itself has no license file. The bundled third-party code keeps its own license: Google Test in `maker/googletest-release-1.7.0/LICENSE` and the Nordic SDK in `maker/platforms/nrf51822/SDK/licenses.txt`.
+Maker is released under the [MIT License](LICENSE). The bundled third-party code keeps its own license: Google Test in `maker/googletest-release-1.7.0/LICENSE` and the Nordic SDK in `maker/platforms/nrf51822/SDK/licenses.txt`.
